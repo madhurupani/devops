@@ -1,7 +1,7 @@
 provider "aws" {
   region = "us-east-1"
-  access_key = "AKIAISMBGKGD3CJIIFHA"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 
 resource "aws_instance" "madhu" {
